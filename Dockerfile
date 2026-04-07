@@ -1,6 +1,6 @@
 FROM alpine:3
 
-ARG BAIDUNETDISK_VER=4.17.7
+ARG BAIDUNETDISK_VER=4.17.8
 
 RUN apk add --no-cache wget
 
